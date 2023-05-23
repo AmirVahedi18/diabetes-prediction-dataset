@@ -41,43 +41,53 @@ memory usage: 6.9+ MB
 ### Result of Data Visualization Step
 
 ##### **Figure #01: Heatmap of Correlation Matrix**
+![Figure #01: Heatmap of Correlation Matrix](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/52b3c0af-535d-4e91-a6c8-8e7c002bb197)
 
 
 
 ##### **Figure #02: Scatter Plot of Age and BMI, Mark Heart Disease**
+![Figure #02: Scatter Plot of Age and BMI, Mark Heart Disease](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/e9ba6111-71d2-42fd-8d46-2501e6410af1)
 
 
 
 ##### **Figure #03: Scatter Plot of Age and BMI, Mark Smoking History**
+![Figure #03: Scatter Plot of Age and BMI, Mark Smoking History](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/6297f6ff-e84e-4044-9a5a-d686bffab4a9)
 
 
 
 ##### **Figure #04: Scatter Plot of Age and BMI, Mark Hypertension**
+![Figure #04: Scatter Plot of Age and BMI, Mark Hypertension](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/8c9f0f7e-2fcf-4312-bd7f-ff50bc765aad)
 
 
 
 ##### **Figure #05: Histogram and KDE Diagram of BMI, Diabetes Category**
+![Figure #05: Histogram and KDE Diagram of BMI, Diabetes Category](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/82126835-092b-4c27-b408-6e51e5b71ef4)
 
 
 
 ##### **Figure #06: Histogram of Age, Diabetes Category**
+![Figure #06: Histogram of Age, Diabetes Category](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/c89f2a4d-1bc8-44a6-8259-490abf18a943)
 
 
 
 ##### **Figure #07: Histogram of Age, Hypertension Category**
+![Figure #07: Histogram of Age, Hyptertension Category](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/41c95751-b447-4e1c-bd09-891b1441876c)
 
 
 
 
 ##### **Figure #08: Histogram of Age, Heart Disease Category**
+![Figure #08: Histogram of Age, Heart Disease Category](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/e8fdca4a-3cbe-4fe4-be94-7cc2805d5ba3)
 
 
 
 ##### **Figure #09: Count Plot of Gender and Smoking Category**
+![Figure #09: Count Plot of Gender and Smoking Category](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/079d2395-6d02-4a95-a8da-e1b731b1acb6)
 
 
 
 ##### **Figure #10: Bar Plot of Gender and Smoking Category**
+![Figure #10: Bar Plot of Gender and Smoking Category](https://github.com/AmirVahedi18/diabetes-prediction-dataset/assets/77887540/fcf2766c-b862-4354-a035-7084996d9cfb)
 
 
 
